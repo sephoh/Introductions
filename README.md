@@ -85,17 +85,17 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
    6. [Stephen Kuria](https://github.com/sephoh)
       #### Interest
       
-    <ul>
-     <li>Machine learning</li>
-     <li>Bioinformatics</li>
-     <li>Programming</li>
-    </ul>
+        <ul>
+         <li>Machine learning</li>
+         <li>Bioinformatics</li>
+         <li>Programming</li>
+        </ul>
     
       #### Hobbies
       
-    <ul>
-     <li>Brainstorming</li>
-     <li>Debating</li>
-    </ul>
+        <ul>
+         <li>Brainstorming</li>
+         <li>Debating</li>
+        </ul>
  
     
