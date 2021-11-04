@@ -83,15 +83,16 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
       - Sleeping :sleeping_bed: :sleeping:
 
    6. [Stephen Kuria](https://github.com/sephoh)
-      #### Interests
-     ---
-     - Machine learning 
-     - Bioinformatics
-     - Programming
-     ---
+      #### Interest
+      <ul>
+     <li> Machine learning </li>
+     <li> Bioinformatics </li>
+     <li> Programming </li>
+    </ul>
       #### Hobbies
-     ---
-     - Brainstorming
-     - Debating
+    <ul>
+     <li> Brainstorming </li>
+     <li> Debating </li>
+     </ul>
  
     
